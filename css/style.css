@@ -745,7 +745,7 @@ h3.my-profession
 /* footer */
 .footer 
 {   
-    background-color: var(--text-black-700);
+    background-color: var(--skin-color);
     margin: 0px 0 10px;
     padding-top: 15px;
     text-align: center;
@@ -753,13 +753,13 @@ h3.my-profession
 .footer a 
 {
     text-decoration: none;
-    color: var(--skin-color);
+    color: #fff;
     font-size: 22px;
     margin: 0 10px;
 }
 .footer hr 
 {
-    background: var(--bg-black-900);
+    background: #ffffff;
     height: 1px;
     width: 100%;
     border: 0;
@@ -768,8 +768,7 @@ h3.my-profession
 .footer p 
 {
     padding-bottom: 15px;
-    color: var(--skin-color);
-
+    color: #fff
 }
 
 /* Media query */
