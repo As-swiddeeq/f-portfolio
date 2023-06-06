@@ -745,7 +745,7 @@ h3.my-profession
 /* footer */
 .footer 
 {   
-    background-color: var(--text-black-700);
+    background-color: var(--skin-color);
     margin: 0px 0 10px;
     padding-top: 15px;
     text-align: center;
